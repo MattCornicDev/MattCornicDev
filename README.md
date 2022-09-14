@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+![from_url](https://i.imgur.com/your-profile-picture.png)
+
+![from_assets](https://github.com/username/username/xxx/master/assets/your-profile-picture.png)
+
 <!--
 **MattCornicDev/MattCornicDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
