@@ -9,7 +9,7 @@ Bienvenue sur mon profil GitHub ! Je suis Rarib, passionné par l'informatique e
 ## Compétences
 
 - **Langages de Programmation :** * JavaScript, Swift*.
-- **Technologies :** *: React, Node.js, NodeJS*.
+- **Technologies :** *: React, Node.js, NodeJS, NextJS*.
 - **Automatisation :** * Shell Bash scripting*.
 - **Base de Données :** * MySQL, MongoDB*.
 - **Version Control :** * Git*.
