@@ -8,8 +8,8 @@ Bienvenue sur mon profil GitHub ! Je suis Rarib, passionné par l'informatique e
 
 ## Compétences
 
-- **Langages de Programmation :** * JavaScript, Swift*.
-- **Technologies :** *: React, Node.js, NodeJS, NextJS*.
+- **Langages de Programmation :** * JavaScript, TypeScrip, Swift*.
+- **Technologies :** *: React.js, Node.js, Next.js*.
 - **Automatisation :** * Shell Bash scripting*.
 - **Base de Données :** * MySQL, MongoDB*.
 - **Version Control :** * Git*.
@@ -18,9 +18,10 @@ Bienvenue sur mon profil GitHub ! Je suis Rarib, passionné par l'informatique e
 
 Découvrez certains des projets sur lesquels j'ai travaillé :
 
-1. **Charlie** - *Projet chez Suez Samer*.
-2. **AOM** - *Application metier en javascript pour une societe d'electricité avec pour but de faire une migration en RactJS pour entrainer les stagiaires*.
-3. **Cours Formation** - *Cours sur les technologie en developpement web des formations que je fais*.
+1. **Charlie** - *Projet chez Suez Smart Solution*.
+2. **Raja BasketBall** - *Application web pour la Raja BasketBall de Casablanca*.
+3. **AOM** - *Application metier en javascript pour une societe d'electricité avec pour but de faire une migration en RactJS pour entrainer les stagiaires*.
+4. **Cours Formation** - *Cours sur les technologie en developpement web des formations que je fais*.
 
 ## Contributions Open Source
 
